@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi 👋, I'm Jeffrey Bagagnan</h1>
 <h3 align="center">I'm from the Philippines and a father of two lovely daughters, and a loving husband to my wife</h3>
-<img align="right" alt="Coding" width="400" src=https://giphy.com/explore/coding>
+<img align="right" alt="Coding" width="400" src=https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffreybagagnan&label=Profile%20views&color=0e75b6&style=flat" alt="jeffreybagagnan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeffreybagagnan" alt="jeffreybagagnan" /></a> </p>

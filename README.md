@@ -1,6 +1,6 @@
 # Hi there👋, 
 
-# This is my final project name Social Media Blocker
+# This is my final project name "Social Media Blocker"
 
 #### Video Demo: https://youtu.be/8rRxMcR8p6M
 
